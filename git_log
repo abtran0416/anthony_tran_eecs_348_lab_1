@@ -1,0 +1,50 @@
+commit e6fd5b9f8d290442b2b21b3dfd8183b6c2e59c9d (HEAD -> main, origin/main, origin/HEAD)
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 21:55:45 2024 -0500
+
+    replaced the hello-world program with the sample C program
+
+commit 9b03e7315cdc1b97431b938d39da36c3b2a7e79c
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:59:34 2024 -0500
+
+    added solution
+
+commit 936ba1d68f7c3f650f823909edff06ef9ac9c58b
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:51:30 2024 -0500
+
+    changed hello to bye
+
+commit c1c3d28c95c2dc7908697dfe9f034264cf888255
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:42:56 2024 -0500
+
+    Added hello-world program.
+anthonytran@anthonys-air-7 lab_1 % git log -all
+error: switch `l' expects a numerical value
+anthonytran@anthonys-air-7 lab_1 % git log --all
+commit e6fd5b9f8d290442b2b21b3dfd8183b6c2e59c9d (HEAD -> main, origin/main, origin/HEAD)
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 21:55:45 2024 -0500
+
+    replaced the hello-world program with the sample C program
+
+commit 9b03e7315cdc1b97431b938d39da36c3b2a7e79c
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:59:34 2024 -0500
+
+    added solution
+
+commit 936ba1d68f7c3f650f823909edff06ef9ac9c58b
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:51:30 2024 -0500
+
+    changed hello to bye
+
+commit c1c3d28c95c2dc7908697dfe9f034264cf888255
+Author: Anthony Tran <anthonytran0416@gmail.com>
+Date:   Sun Sep 8 20:42:56 2024 -0500
+
+    Added hello-world program.
+anthonytran@anthonys-air-7 lab_1 % 
